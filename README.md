@@ -1,3 +1,3 @@
-# php-73-apache-mysql
+# docker-php
 
-Base image of php:7.3-apache with extension pdo and pdo_mysql installed and enabled.
+Base image of php with extension pdo and pdo_mysql installed and enabled.

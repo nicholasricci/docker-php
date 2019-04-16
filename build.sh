@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t php:7.3-apache-mysql .
+docker build -t bururez/php:7.3-apache-mysql .
